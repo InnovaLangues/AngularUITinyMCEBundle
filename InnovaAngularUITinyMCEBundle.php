@@ -1,6 +1,6 @@
 <?php
 
-namespace Innova\InnovaAngularUITinyMCEBundle;
+namespace Innova\AngularUITinyMCEBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 use Claroline\KernelBundle\Bundle\AutoConfigurableInterface;
