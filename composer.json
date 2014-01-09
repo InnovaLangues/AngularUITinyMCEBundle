@@ -1,5 +1,5 @@
 {
-	"name" : "innova/angular-uitinymce-bundle",
+	"name" : "innova/angular-ui-tinymce-bundle",
 	"description" : "Symfony 2 bundle which provides Angular JS directive to integrate TinyMCE",
 	"type" : "library",
 	"authors" : [{
