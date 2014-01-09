@@ -1,6 +1,6 @@
 # AngularUITinyMCEBundle
 
-Symfony 2 bundle which provides Angular JS directive to integrate TinyMCE .
+Symfony 2 bundle which provides Angular JS directive to integrate TinyMCE.
 
 ## Installation
 
