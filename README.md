@@ -8,7 +8,7 @@ Symfony 2 bundle which provides Angular JS directive to integrate TinyMCE.
 
 Install with composer :
 	
-	$ composer require "innova/angular-ui-tinymce-bundle" "1.0"
+	$ composer require "innova/angular-ui-tinymce-bundle" "1.*"
 
 ## Authors
 
