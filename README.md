@@ -14,7 +14,7 @@ Install with composer :
 
 * Donovan Tengblad (purplefish32)
 * Axel Penin (Elorfin)
-* Arnaud Bay (arnaudbey)
+* Arnaud Bey (arnaudbey)
 * Eric Vincent (ericvincenterv)
 
 [1]: https://insight.sensiolabs.com/projects/63cc852b-3b9a-45ea-83f1-efe2884f5777/small.png
