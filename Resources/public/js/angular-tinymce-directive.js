@@ -23,7 +23,7 @@ angular.module('ui.tinymce', [])
 
                 var expression, options, tinyInstance,
                     updateView = function(editor) {
-                        var content = editor.getContent({format: options.format}).trim();
+                        var content = editor.getContent().trim();
                         content = $sce.trustAsHtml(content);
 
                         ngModel.$setViewValue(content);
